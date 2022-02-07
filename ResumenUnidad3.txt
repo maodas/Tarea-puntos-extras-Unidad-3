@@ -1,1 +1,11 @@
 Resume Unidad 3
+
+En esta unidad se nos dio la informacion sobre que es un controlador de versiones, que 
+basicamente es una herramienta que nos sirve para llevar un historial sobre las diferentes
+versiones y los cambios que se hacen en el archivo que se esta trabajando. 
+
+Para mi es una herramienta muy util para seguir un historial, pienso que en nuestra vida diaria
+es una forma en que trabajar con equipos de personas en un solo proyecto a la misma vez es
+una manera muy facil para que el proyecto camine y se desarrolle de una buena forma,
+siempre sabiendo que cambios se han hecho y que versiones son las que se han actualizado y
+saber de entre todas las versiones cual es la mejor para poder trabajar. 
