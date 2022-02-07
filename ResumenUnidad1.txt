@@ -1,4 +1,4 @@
-Resumen Unidad 1
+** Resumen Unidad 1 **
 
 En esta unidad se vio los numero binarios, que es la base o el lenguaje en el que las 
 computadoras entienden instrucciones o comandos. Se nos enseño tambien como combertir 
