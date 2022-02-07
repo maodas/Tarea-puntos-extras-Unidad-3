@@ -1,4 +1,4 @@
 # Resume unidad 1
-** Sistema binario
-** Algoritmos
-** Logica
+** Sistema binario**
+** Algoritmos**
+** Logica**
