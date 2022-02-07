@@ -1,0 +1,19 @@
+Resumen Unidad 2
+
+En esta unidad se nos empezo a enseñar sobre las variables, que son datos que se almacenan
+en la memoria del sistema y que se pueden cambiar los valores durante la ejecucion del programa.
+
+Las constantes, esos son datos muy parecidos a las variables, tienen un valor, pero este
+no cambia su valor durante la ejecucion del programa, se nos enseño tambien que dentro de 
+los diferentes lenguajes de programacion se encuentran las palabras reservada que 
+basicamente son palabras que no se pueden utilizar en los programas.
+
+Se nos dio tambien el tema de operacion numericas y operaciones comparativas en base al 
+lenguaje que se este utilizando y las operaciones logicas ademas las cadenas de caracteres
+que son "string".
+
+Creo que la forma en la que se podria usar estos temas en la programacion es que son las 
+bases para poder llevar a cabo la resolucion de problemas y ejecucion de programas, creo
+que en nuestra vida diaria se pueden utilizar las operaciones logicas, ya que en un diario vivir
+si un proceso no sirve o no se ejecuta como esperamos y podemos resolver el problema 
+de otra forma logica.

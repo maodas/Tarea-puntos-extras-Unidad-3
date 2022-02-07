@@ -1,0 +1,22 @@
+Resumen Unidad 1
+
+En esta unidad se vio los numero binarios, que es la base o el lenguaje en el que las 
+computadoras entienden instrucciones o comandos. Se nos enseño tambien como combertir 
+los numero binarios a numero decimales y viceversa.
+
+Se nos enseño tambien sobre la logica y las proposiciones logicas, tambien se nos enseño
+sobre la conjuncion, disyuncion y negacion, que son muy utilizadas en la programacion.
+
+Tambien se nos enseño sobre los algoritmos que son un conjunto de pasos para poder resolver
+un problema, deben de tener un orden logico y pueden ser intercambiables. Y por ultimo se 
+nos enseño de los lenguajes de programacion y los diferentes editores que existen para poder 
+crear y ejecutar ciertos programas. 
+
+Todos los temas que se nos dieron en esta unidad son las bases para programacion y son las 
+herramientas basicas para poder empezar a programas y sobre todo en el caso de los algoritmos
+es la base para poder resolver problemas de una forma organizada.
+
+Fuera de la programacion, el tema de los algoritmos es uno que se usa en el dia a dia en 
+cada una de nuestras vidas y actividades aunque no nos demos cuenta o no seamos concientes 
+de que estamos ejecutando un algoritmo.
+
